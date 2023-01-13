@@ -7,5 +7,5 @@ Sim, a entidade Professor.<br> <br>
 ⇨ Quais são os principais campos e tipos?<br>
 O Id, nome e cpf. <br> <br>
 ⇨ Como essas entidades estão relacionadas?<br>
-estão se relacionando pelo id.<br>
+Estão se relacionando pelo id.<br>
 
