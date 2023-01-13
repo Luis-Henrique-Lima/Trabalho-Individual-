@@ -5,6 +5,7 @@
 ⇨ Existem outras entidades além dessas três?<br>
 Sim, a entidade Professor.
 ⇨ Quais são os principais campos e tipos?<br>
-
+O Id, nome e cpf.
 ⇨ Como essas entidades estão relacionadas?<br>
+estão se relacionando pelo id.
 
